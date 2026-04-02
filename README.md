@@ -6,7 +6,11 @@
 
 <br/>
 
-[![badge](https://img.shields.io/badge/DIGITAL_SOLUTIONS-f0f7ff?style=flat-square&labelColor=f0f7ff&color=f0f7ff)](#)
+![badge](https://img.shields.io/badge/─────────────────────────────────────────────────────-f8faff?style=flat-square&labelColor=f8faff&color=f8faff)
+
+![badge](https://img.shields.io/badge/DIGITAL_SOLUTIONS-f0f7ff?style=flat-square&labelColor=f0f7ff&color=f0f7ff)
+
+![badge](https://img.shields.io/badge/─────────────────────────────────────────────────────-f8faff?style=flat-square&labelColor=f8faff&color=f8faff)
 
 <br/>
 
@@ -21,9 +25,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0077CD&height=60&section=header" width="100%"/>
-
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## About
 
@@ -31,11 +35,13 @@ Shinenexa is a precision-driven digital company. We build **high-performance web
 
 We combine engineering rigour with design clarity — and strategy with every decision we make.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0077CD&height=40&section=footer&reversal=true" width="100%"/>
-</div>
 
 ## Services
+
+&nbsp;
 
 | | |
 |:---|:---|
@@ -43,11 +49,13 @@ We combine engineering rigour with design clarity — and strategy with every de
 | 🌐 **Domain & Hosting** | 📈 **Digital Marketing** |
 | 🛒 **E-Commerce** | 💡 **Custom Solutions** |
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0077CD&height=40&section=header" width="100%"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## Stack
+
+&nbsp;
 
 **Frontend**
 
@@ -57,24 +65,28 @@ We combine engineering rigour with design clarity — and strategy with every de
 ![JavaScript](https://img.shields.io/badge/JavaScript-EEF6FF?style=flat-square&logo=javascript&logoColor=c9a800)&ensp;
 ![React](https://img.shields.io/badge/React-EEF6FF?style=flat-square&logo=react&logoColor=61DAFB)
 
+&nbsp;
+
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-EEF6FF?style=flat-square&logo=python&logoColor=3776AB)&ensp;
 ![Node.js](https://img.shields.io/badge/Node.js-EEF6FF?style=flat-square&logo=nodedotjs&logoColor=3C873A)&ensp;
 ![Express.js](https://img.shields.io/badge/Express.js-EEF6FF?style=flat-square&logo=express&logoColor=000000)
 
+&nbsp;
+
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-EEF6FF?style=flat-square&logo=mongodb&logoColor=47A248)&ensp;
 ![MySQL](https://img.shields.io/badge/MySQL-EEF6FF?style=flat-square&logo=mysql&logoColor=4479A1)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0077CD&height=40&section=footer&reversal=true" width="100%"/>
-</div>
 
 ## How We Work
 
-<div align="center">
+&nbsp;
 
 ![Discover](https://img.shields.io/badge/01_·_Discover-0077CD?style=for-the-badge)&ensp;
 ![Design](https://img.shields.io/badge/02_·_Design-5599BB?style=for-the-badge)&ensp;
@@ -84,20 +96,22 @@ We combine engineering rigour with design clarity — and strategy with every de
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0077CD&height=40&section=header" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## Vision
+
+&nbsp;
 
 > *"To empower businesses with high-quality digital solutions*
 > *that drive real, measurable, lasting growth."*
 >
 > **— Shinenexa**
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
+
+<br/>
 
 [![Visit Website](https://img.shields.io/badge/Visit_shinenexa.com-0077CD?style=for-the-badge&logo=safari&logoColor=white)](https://shinenexa.com)&ensp;
 [![Start a Project](https://img.shields.io/badge/Start_a_Project-EEF6FF?style=for-the-badge)](#)
@@ -108,6 +122,8 @@ We combine engineering rigour with design clarity — and strategy with every de
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0077CD,100:35a0e8&height=100&section=footer&text=Building+the+future+of+digital+experiences.&fontSize=13&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+*Building the future of digital experiences.*
+
+<br/>
 
 </div>
