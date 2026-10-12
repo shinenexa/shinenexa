@@ -1,129 +1,160 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0077CD,50:3FA3F0,100:00C6FF&text=Shinenexa&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=DIGITAL%20SOLUTIONS&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Shinenexa"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=58&duration=3000&pause=99999&color=0077CD&center=true&vCenter=true&width=500&height=80&lines=Shinenexa" alt="Shinenexa"/>
+<a href="https://shinenexa.com">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=3200&pause=1200&color=0077CD&center=true&vCenter=true&width=700&lines=Performance-first.+Design-led.;IT+Solutions+%C2%B7+AI+Solutions+%C2%B7+Digital+Marketing;Built+in+Chennai+for+the+world.;Engineering+rigour+meets+design+clarity." alt="Typing SVG"/>
+</a>
 
-<br/>
+<br/><br/>
 
-![badge](https://img.shields.io/badge/─────────────────────────────────────────────────────-f8faff?style=flat-square&labelColor=f8faff&color=f8faff)
-
-![badge](https://img.shields.io/badge/DIGITAL_SOLUTIONS-f0f7ff?style=flat-square&labelColor=f0f7ff&color=f0f7ff)
-
-![badge](https://img.shields.io/badge/─────────────────────────────────────────────────────-f8faff?style=flat-square&labelColor=f8faff&color=f8faff)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&size=15&duration=3500&pause=1500&color=7799AA&center=true&vCenter=true&width=600&lines=Performance-first.+Design-led.;Built+in+Chennai+for+the+world.;Engineering+rigour+meets+design+clarity.)](https://git.io/typing-svg)
-
-<br/>
-
-[![Website](https://img.shields.io/badge/🌐_shinenexa.com-0077CD?style=flat-square)](https://shinenexa.com)&ensp;
-[![Instagram](https://img.shields.io/badge/Instagram-0077CD?style=flat-square&logo=instagram&logoColor=white)](#)&ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077CD?style=flat-square&logo=linkedin&logoColor=white)](#)&ensp;
-[![Location](https://img.shields.io/badge/Chennai,_India-0077CD?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
-<br/>
+[![Website](https://img.shields.io/badge/shinenexa.com-0077CD?style=for-the-badge&logo=safari&logoColor=white)](https://shinenexa.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Chennai](https://img.shields.io/badge/Chennai,_India-0A1F44?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## About
+## ◆ About
 
-Shinenexa is a precision-driven digital company. We build **high-performance websites**, **scalable applications**, and **conversion-focused experiences** for businesses that take their digital presence seriously.
+**Shinenexa** is a precision-driven digital company. We build **high-performance websites**, **scalable applications**, **AI-powered solutions** and **conversion-focused marketing** for businesses that take their digital presence seriously.
 
-We combine engineering rigour with design clarity — and strategy with every decision we make.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+Engineering rigour, design clarity and strategy go into every decision we make.
 
 <div align="center">
 
-## Services
-
-&nbsp;
-
-| | |
-|:---|:---|
-| 🚀 **Website Development** | 🤖 **AI Chatbot & Integration** |
-| 🌐 **Domain & Hosting** | 📈 **Digital Marketing** |
-| 🛒 **E-Commerce** | 💡 **Custom Solutions** |
+![Performance](https://img.shields.io/badge/Performance-First-0077CD?style=flat-square&labelColor=0A1F44)
+![Design](https://img.shields.io/badge/Design-Led-0077CD?style=flat-square&labelColor=0A1F44)
+![AI](https://img.shields.io/badge/AI-Powered-0077CD?style=flat-square&labelColor=0A1F44)
+![Scalable](https://img.shields.io/badge/Built-To_Scale-0077CD?style=flat-square&labelColor=0A1F44)
+![Growth](https://img.shields.io/badge/Focus-Measurable_Growth-0077CD?style=flat-square&labelColor=0A1F44)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## Stack
+## ◆ What We Do
 
-&nbsp;
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 IT Solutions</h3>
+      <hr/>
+      » Web Development<br/>
+      » WordPress Development<br/>
+      » Mobile App Development<br/>
+      » Ecommerce Development<br/>
+      » HTML → WordPress Migration<br/>
+      » Domain & Hosting Services
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Solutions</h3>
+      <hr/>
+      » AI Workflow Automation<br/>
+      » AI Chatbot for Websites<br/>
+      » Custom Gen AI Solutions<br/>
+      » API Integration<br/>
+      » Data & Insight Services
+    </td>
+    <td width="33%" valign="top">
+      <h3>📈 Digital Marketing</h3>
+      <hr/>
+      » Digital Marketing<br/>
+      » Search Engine Optimization (SEO)<br/>
+      » Search Engine Marketing (SEM)<br/>
+      » Pay-Per-Click (PPC)<br/>
+      » Social Media Marketing<br/>
+      » Email Marketing<br/>
+      » Content Writing
+    </td>
+  </tr>
+</table>
 
-**Frontend**
+<br/>
 
-![HTML](https://img.shields.io/badge/HTML-EEF6FF?style=flat-square&logo=html5&logoColor=E34F26)&ensp;
-![CSS](https://img.shields.io/badge/CSS-EEF6FF?style=flat-square&logo=css3&logoColor=0077CD)&ensp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-EEF6FF?style=flat-square&logo=bootstrap&logoColor=7952B3)&ensp;
-![JavaScript](https://img.shields.io/badge/JavaScript-EEF6FF?style=flat-square&logo=javascript&logoColor=c9a800)&ensp;
-![React](https://img.shields.io/badge/React-EEF6FF?style=flat-square&logo=react&logoColor=61DAFB)
-
-&nbsp;
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-EEF6FF?style=flat-square&logo=python&logoColor=3776AB)&ensp;
-![Node.js](https://img.shields.io/badge/Node.js-EEF6FF?style=flat-square&logo=nodedotjs&logoColor=3C873A)&ensp;
-![Express.js](https://img.shields.io/badge/Express.js-EEF6FF?style=flat-square&logo=express&logoColor=000000)
-
-&nbsp;
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-EEF6FF?style=flat-square&logo=mongodb&logoColor=47A248)&ensp;
-![MySQL](https://img.shields.io/badge/MySQL-EEF6FF?style=flat-square&logo=mysql&logoColor=4479A1)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## ◆ Tech Stack
 
 <div align="center">
 
-## How We Work
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vite&theme=light" alt="frontend"/>
 
-&nbsp;
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express,php,laravel&theme=light" alt="backend"/>
 
-![Discover](https://img.shields.io/badge/01_·_Discover-0077CD?style=for-the-badge)&ensp;
-![Design](https://img.shields.io/badge/02_·_Design-5599BB?style=for-the-badge)&ensp;
-![Build](https://img.shields.io/badge/03_·_Build-0077CD?style=for-the-badge)&ensp;
-![Launch](https://img.shields.io/badge/04_·_Launch-5599BB?style=for-the-badge)&ensp;
-![Grow](https://img.shields.io/badge/05_·_Grow-0077CD?style=for-the-badge)
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,supabase&theme=light" alt="database"/>
+
+**CMS & E-Commerce**<br/>
+<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify&theme=light" alt="cms"/>
+
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio&theme=light" alt="mobile"/>
+
+**Cloud, DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,nginx,docker,linux,git,github,figma,vscode,postman&theme=light" alt="tools"/>
+
+<br/>
+
+**AI & Automation**<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-EEF6FF?style=flat-square&logo=openai&logoColor=412991)
+![Anthropic](https://img.shields.io/badge/Claude_API-EEF6FF?style=flat-square&logo=anthropic&logoColor=D97757)
+![LangChain](https://img.shields.io/badge/LangChain-EEF6FF?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![n8n](https://img.shields.io/badge/n8n-EEF6FF?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Zapier](https://img.shields.io/badge/Zapier-EEF6FF?style=flat-square&logo=zapier&logoColor=FF4F00)
+![REST API](https://img.shields.io/badge/REST_APIs-EEF6FF?style=flat-square&logo=fastapi&logoColor=0077CD)
+
+**Marketing & Analytics**<br/>
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-EEF6FF?style=flat-square&logo=googleanalytics&logoColor=E37400)
+![Google Ads](https://img.shields.io/badge/Google_Ads-EEF6FF?style=flat-square&logo=googleads&logoColor=4285F4)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-EEF6FF?style=flat-square&logo=meta&logoColor=0866FF)
+![Search Console](https://img.shields.io/badge/Search_Console-EEF6FF?style=flat-square&logo=google&logoColor=4285F4)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-EEF6FF?style=flat-square&logo=mailchimp&logoColor=FFE01B)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## Vision
+## ◆ How We Work
 
-&nbsp;
+<div align="center">
+
+![Discover](https://img.shields.io/badge/01-Discover-0077CD?style=for-the-badge&labelColor=0A1F44)
+![Design](https://img.shields.io/badge/02-Design-1E90E6?style=for-the-badge&labelColor=0A1F44)
+![Build](https://img.shields.io/badge/03-Build-3FA3F0?style=for-the-badge&labelColor=0A1F44)
+![Launch](https://img.shields.io/badge/04-Launch-1E90E6?style=for-the-badge&labelColor=0A1F44)
+![Grow](https://img.shields.io/badge/05-Grow-0077CD?style=for-the-badge&labelColor=0A1F44)
+
+</div>
+
+<br/>
+
+## ◆ Vision
+
+<div align="center">
 
 > *"To empower businesses with high-quality digital solutions*
 > *that drive real, measurable, lasting growth."*
 >
-> **— Shinenexa**
+> **Shinenexa**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
+</div>
 
 <br/>
 
-[![Visit Website](https://img.shields.io/badge/Visit_shinenexa.com-0077CD?style=for-the-badge&logo=safari&logoColor=white)](https://shinenexa.com)&ensp;
-[![Start a Project](https://img.shields.io/badge/Start_a_Project-EEF6FF?style=for-the-badge)](#)
+<div align="center">
+
+[![Visit Website](https://img.shields.io/badge/Visit_shinenexa.com-0077CD?style=for-the-badge&logo=safari&logoColor=white)](https://shinenexa.com)
+[![Start a Project](https://img.shields.io/badge/Start_a_Project-00C6FF?style=for-the-badge&logo=rocket&logoColor=white)](https://shinenexa.com)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shinenexa&color=0077CD&style=flat-square&label=Profile+Views)
 
-<br/>
-
-*Building the future of digital experiences.*
-
-<br/>
+<sub><i>Building the future of digital experiences.</i></sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0077CD,50:3FA3F0,100:00C6FF&section=footer" width="100%" alt=""/>
